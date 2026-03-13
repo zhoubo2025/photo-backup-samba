@@ -97,6 +97,11 @@ Thumbs.db
 gradle-wrapper.jar
 !gradle-wrapper.properties
 
+# Local Gradle and JDK
+gradle/
+jdk-*/
+
+
 # Build cache
 .gradle/caches/
 .gradle/wrapper/
